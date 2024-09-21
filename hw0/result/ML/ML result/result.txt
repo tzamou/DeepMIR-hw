@@ -1,0 +1,4 @@
+ML algorithm is: RandomForestClassifier.
+Training time: 634.55s.
+Accuracy: 67.5293%
+Top 3 accuracy: 85.8398%
