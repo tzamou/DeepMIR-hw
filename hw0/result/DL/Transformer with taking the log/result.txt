@@ -1,0 +1,23 @@
+Model name: CnnTrainsformerClassifier.
+Evaluate time: 26.48s.
+Testing loss is 0.02192.
+Testing accuracy: 59.2529%
+Testing top 3 accuracy: 83.1543%
+Model name: CnnTrainsformerClassifier.
+Evaluate time: 10.26s.
+Testing loss is 0.01864.
+Testing accuracy: 65.8691%
+Testing top 3 accuracy: 86.7432%
+Model name: CnnTrainsformerClassifier.
+Evaluate time: 8.83s.
+Testing loss is 0.01807.
+Testing accuracy: 68.7988%
+Testing top 3 accuracy: 88.5010%
+
+The result after training
+Training time: 677.59s.
+Model name: CnnTrainsformerClassifier.
+Evaluate time: 8.75s.
+Testing loss is 0.01866.
+Testing accuracy: 72.7539%
+Testing top 3 accuracy: 90.4541%
