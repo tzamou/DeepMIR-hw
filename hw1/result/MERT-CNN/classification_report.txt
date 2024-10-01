@@ -1,0 +1,119 @@
+                  precision    recall  f1-score   support
+
+           Piano       0.89      0.96      0.92      3237
+      Percussion       0.00      0.00      0.00       383
+           Organ       0.00      0.00      0.00       671
+          Guitar       0.88      0.96      0.92      3194
+            Bass       0.95      0.98      0.97      3471
+         Strings       0.86      0.49      0.63      1930
+           Voice       0.65      0.03      0.05       939
+Wind Instruments       0.53      0.01      0.01      1599
+           Synth       0.67      0.00      0.01      1074
+
+       micro avg       0.90      0.64      0.75     16498
+       macro avg       0.60      0.38      0.39     16498
+    weighted avg       0.78      0.64      0.64     16498
+     samples avg       0.86      0.65      0.73     16498
+
+                  precision    recall  f1-score   support
+
+           Piano       0.91      0.95      0.93      3237
+      Percussion       0.91      0.08      0.14       383
+           Organ       1.00      0.00      0.00       671
+          Guitar       0.88      0.97      0.92      3194
+            Bass       0.96      0.98      0.97      3471
+         Strings       0.93      0.55      0.69      1930
+           Voice       0.70      0.05      0.10       939
+Wind Instruments       0.85      0.01      0.01      1599
+           Synth       0.72      0.19      0.30      1074
+
+       micro avg       0.91      0.66      0.77     16498
+       macro avg       0.87      0.42      0.45     16498
+    weighted avg       0.89      0.66      0.68     16498
+     samples avg       0.88      0.67      0.75     16498
+
+                  precision    recall  f1-score   support
+
+           Piano       0.91      0.95      0.93      3237
+      Percussion       1.00      0.07      0.12       383
+           Organ       0.85      0.15      0.25       671
+          Guitar       0.88      0.98      0.93      3194
+            Bass       0.96      0.98      0.97      3471
+         Strings       0.86      0.76      0.81      1930
+           Voice       0.71      0.26      0.38       939
+Wind Instruments       0.70      0.11      0.19      1599
+           Synth       0.82      0.11      0.19      1074
+
+       micro avg       0.90      0.71      0.79     16498
+       macro avg       0.86      0.48      0.53     16498
+    weighted avg       0.87      0.71      0.73     16498
+     samples avg       0.88      0.71      0.77     16498
+
+                  precision    recall  f1-score   support
+
+           Piano       0.94      0.85      0.89      3237
+      Percussion       0.94      0.16      0.27       383
+           Organ       0.79      0.32      0.45       671
+          Guitar       0.90      0.94      0.92      3194
+            Bass       0.98      0.95      0.96      3471
+         Strings       0.94      0.65      0.77      1930
+           Voice       0.79      0.26      0.39       939
+Wind Instruments       0.71      0.27      0.39      1599
+           Synth       0.86      0.23      0.36      1074
+
+       micro avg       0.92      0.70      0.79     16498
+       macro avg       0.87      0.51      0.60     16498
+    weighted avg       0.90      0.70      0.75     16498
+     samples avg       0.89      0.70      0.76     16498
+
+                  precision    recall  f1-score   support
+
+           Piano       0.90      0.98      0.94      3237
+      Percussion       0.69      0.36      0.47       383
+           Organ       0.74      0.39      0.51       671
+          Guitar       0.93      0.83      0.87      3194
+            Bass       0.99      0.94      0.96      3471
+         Strings       0.91      0.73      0.81      1930
+           Voice       0.89      0.22      0.35       939
+Wind Instruments       0.70      0.45      0.54      1599
+           Synth       0.92      0.26      0.41      1074
+
+       micro avg       0.91      0.73      0.81     16498
+       macro avg       0.85      0.57      0.65     16498
+    weighted avg       0.90      0.73      0.78     16498
+     samples avg       0.89      0.73      0.78     16498
+
+                  precision    recall  f1-score   support
+
+           Piano       0.91      0.94      0.93      3237
+      Percussion       0.90      0.25      0.40       383
+           Organ       0.99      0.12      0.22       671
+          Guitar       0.91      0.95      0.93      3194
+            Bass       0.98      0.96      0.97      3471
+         Strings       0.86      0.80      0.83      1930
+           Voice       0.92      0.20      0.33       939
+Wind Instruments       0.76      0.27      0.40      1599
+           Synth       0.82      0.38      0.51      1074
+
+       micro avg       0.91      0.74      0.82     16498
+       macro avg       0.89      0.54      0.61     16498
+    weighted avg       0.90      0.74      0.77     16498
+     samples avg       0.89      0.74      0.79     16498
+
+                  precision    recall  f1-score   support
+
+           Piano       0.92      0.89      0.90      1889
+      Percussion       0.89      0.27      0.41       243
+           Organ       0.65      0.33      0.43       461
+          Guitar       0.91      0.96      0.93      1943
+            Bass       0.97      0.97      0.97      2076
+         Strings       0.92      0.67      0.78      1235
+           Voice       0.60      0.61      0.61       485
+Wind Instruments       0.80      0.23      0.36       889
+           Synth       0.90      0.26      0.41       647
+
+       micro avg       0.90      0.74      0.81      9868
+       macro avg       0.84      0.58      0.64      9868
+    weighted avg       0.89      0.74      0.78      9868
+     samples avg       0.88      0.74      0.78      9868
+
