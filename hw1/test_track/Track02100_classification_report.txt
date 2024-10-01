@@ -1,0 +1,17 @@
+                  precision    recall  f1-score   support
+
+           Piano       0.95      0.90      0.93        21
+      Percussion       0.95      0.91      0.93        22
+           Organ       0.91      0.95      0.93        21
+          Guitar       0.91      0.95      0.93        21
+            Bass       0.91      0.95      0.93        21
+         Strings       0.91      0.95      0.93        21
+           Voice       0.86      0.95      0.90        19
+Wind Instruments       0.85      0.94      0.89        18
+           Synth       0.85      0.94      0.89        18
+
+       micro avg       0.90      0.94      0.92       182
+       macro avg       0.90      0.94      0.92       182
+    weighted avg       0.90      0.94      0.92       182
+     samples avg       0.43      0.44      0.43       182
+
