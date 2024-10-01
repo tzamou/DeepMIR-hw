@@ -1,0 +1,31 @@
+Model name: MERT-CNN.
+Evaluate time: 105.54s.
+Testing loss is 0.18282.
+Testing accuracy: 79.7097%
+Model name: MERT-CNN.
+Evaluate time: 104.06s.
+Testing loss is 0.17302.
+Testing accuracy: 81.4765%
+Model name: MERT-CNN.
+Evaluate time: 106.62s.
+Testing loss is 0.16302.
+Testing accuracy: 82.6159%
+Model name: MERT-CNN.
+Evaluate time: 104.19s.
+Testing loss is 0.15953.
+Testing accuracy: 83.4707%
+Model name: MERT-CNN.
+Evaluate time: 105.12s.
+Testing loss is 0.15577.
+Testing accuracy: 83.7958%
+Model name: MERT-CNN.
+Evaluate time: 109.53s.
+Testing loss is 0.15087.
+Testing accuracy: 84.4440%
+
+The result after training
+Training time: 1122.78s.
+Model name: MERT-CNN.
+Evaluate time: 68.71s.
+Testing loss is 0.09336.
+Testing accuracy: 83.5673%
