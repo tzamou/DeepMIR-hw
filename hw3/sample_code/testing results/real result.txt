@@ -1,0 +1,5 @@
+python code
+Mean H1: 1.9355, Median H1: 1.9326, Max H1: 2.5854, Min H1: 1.1676, Std H1: 0.2308
+Mean H4: 2.5273, Median H4: 2.5322, Max H4: 3.0199, Min H4: 1.5209, Std H4: 0.1507
+Mean GS: 0.7789, Median GS: 0.7931, Max GS: 0.9905, Min GS: 0.5131, Std GS: 0.0968
+--------------

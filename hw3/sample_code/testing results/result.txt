@@ -1,0 +1,40 @@
+GPT-12-150 t-0.3 topk-1
+Mean H1: 1.7193, Median H1: 1.7089, Max H1: 1.9864, Min H1: 1.0583, Std H1: 0.2122
+Mean H4: 2.3760, Median H4: 2.4600, Max H4: 2.6069, Min H4: 1.7545, Std H4: 0.2251
+Mean GS: 0.9214, Median GS: 0.9292, Max GS: 0.9922, Min GS: 0.7888, Std GS: 0.0528
+--------------
+GPT-12-150 t-0.3 topk-5
+Mean H1: 1.7826, Median H1: 1.8061, Max H1: 2.0551, Min H1: 1.4224, Std H1: 0.1689
+Mean H4: 2.3303, Median H4: 2.3640, Max H4: 2.6188, Min H4: 1.8704, Std H4: 0.1742
+Mean GS: 0.8914, Median GS: 0.9057, Max GS: 0.9922, Min GS: 0.6721, Std GS: 0.0888
+--------------
+GPT-12-150 t-1.2 topk-1
+Mean H1: 1.7617, Median H1: 1.7413, Max H1: 2.0599, Min H1: 1.4037, Std H1: 0.1874
+Mean H4: 2.3992, Median H4: 2.4241, Max H4: 2.6974, Min H4: 2.0446, Std H4: 0.1631
+Mean GS: 0.9237, Median GS: 0.9493, Max GS: 0.9883, Min GS: 0.7593, Std GS: 0.0594
+--------------
+GPT-12-150 t-1.2 topk-5
+Mean H1: 1.7361, Median H1: 1.7548, Max H1: 1.9416, Min H1: 1.4257, Std H1: 0.1313
+Mean H4: 2.4068, Median H4: 2.4062, Max H4: 2.6199, Min H4: 2.1517, Std H4: 0.1268
+Mean GS: 0.9010, Median GS: 0.9097, Max GS: 0.9844, Min GS: 0.7810, Std GS: 0.0616
+--------------
+GPT-12-200 t-1.2 topk-1
+Mean H1: 1.5080, Median H1: 1.5278, Max H1: 1.8735, Min H1: 0.4841, Std H1: 0.2988
+Mean H4: 2.2070, Median H4: 2.2849, Max H4: 2.5691, Min H4: 1.3235, Std H4: 0.2804
+Mean GS: 0.8885, Median GS: 0.9100, Max GS: 0.9851, Min GS: 0.6820, Std GS: 0.0694
+--------------
+GPT-12-200 t-1.2 topk-5
+Mean H1: 1.7180, Median H1: 1.7043, Max H1: 2.2295, Min H1: 1.3747, Std H1: 0.1963
+Mean H4: 2.3396, Median H4: 2.3704, Max H4: 2.6238, Min H4: 1.8537, Std H4: 0.1962
+Mean GS: 0.9234, Median GS: 0.9331, Max GS: 0.9922, Min GS: 0.8230, Std GS: 0.0505
+--------------
+GPT-12-50 t-0.3 topk-1
+Mean H1: 1.6978, Median H1: 1.7315, Max H1: 2.1481, Min H1: 1.0326, Std H1: 0.2392
+Mean H4: 2.2246, Median H4: 2.2450, Max H4: 2.6523, Min H4: 1.3273, Std H4: 0.2926
+Mean GS: 0.9330, Median GS: 0.9367, Max GS: 0.9922, Min GS: 0.8352, Std GS: 0.0424
+--------------
+GPT-12-50 t-0.3 topk-5
+Mean H1: 1.7062, Median H1: 1.7292, Max H1: 2.0365, Min H1: 1.1782, Std H1: 0.1944
+Mean H4: 2.2230, Median H4: 2.2375, Max H4: 2.5335, Min H4: 1.4242, Std H4: 0.2534
+Mean GS: 0.9140, Median GS: 0.9373, Max GS: 0.9922, Min GS: 0.6652, Std GS: 0.0791
+--------------
