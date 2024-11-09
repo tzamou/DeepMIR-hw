@@ -1,1 +1,1 @@
-# DeepMAG-hw
+# DeepMIR-hw
